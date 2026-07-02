@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Gehna-01/LEETCODE/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Gehna-01/LEETCODE/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Gehna-01/LEETCODE/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Gehna-01/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Gehna-01/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Gehna-01/LEETCODE/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
