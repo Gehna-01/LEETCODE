@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Gehna-01/LEETCODE/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Gehna-01/LEETCODE/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Gehna-01/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Gehna-01/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Gehna-01/LEETCODE/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Gehna-01/LEETCODE/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Gehna-01/LEETCODE/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Gehna-01/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
