@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Gehna-01/LEETCODE/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Gehna-01/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Gehna-01/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Gehna-01/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Gehna-01/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+| [0509-fibonacci-number](https://github.com/Gehna-01/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,9 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Gehna-01/LEETCODE/tree/master/0509-fibonacci-number) |
 | [3620-network-recovery-pathways](https://github.com/Gehna-01/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Gehna-01/LEETCODE/tree/master/3620-network-recovery-pathways) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Gehna-01/LEETCODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
