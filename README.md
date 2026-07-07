@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Gehna-01/LEETCODE/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Gehna-01/LEETCODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Gehna-01/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Gehna-01/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Gehna-01/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Gehna-01/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Gehna-01/LEETCODE/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Gehna-01/LEETCODE/tree/master/0455-assign-cookies) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Gehna-01/LEETCODE/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/Gehna-01/LEETCODE/tree/master/1288-remove-covered-intervals) |
 ## Sliding Window
 |  |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Gehna-01/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Gehna-01/LEETCODE/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
