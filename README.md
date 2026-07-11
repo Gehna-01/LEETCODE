@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Gehna-01/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0766-toeplitz-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gehna-01/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/Gehna-01/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Gehna-01/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Gehna-01/LEETCODE/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Gehna-01/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gehna-01/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Gehna-01/LEETCODE/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Gehna-01/LEETCODE/tree/master/0611-valid-triangle-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Gehna-01/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gehna-01/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
