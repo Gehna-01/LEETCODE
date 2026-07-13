@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gehna-01/LEETCODE/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Gehna-01/LEETCODE/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Gehna-01/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Gehna-01/LEETCODE/tree/master/0075-sort-colors) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Gehna-01/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/Gehna-01/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gehna-01/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gehna-01/LEETCODE/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
