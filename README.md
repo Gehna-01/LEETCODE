@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Gehna-01/LEETCODE/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gehna-01/LEETCODE/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Gehna-01/LEETCODE/tree/master/0048-rotate-image) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Gehna-01/LEETCODE/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gehna-01/LEETCODE/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Gehna-01/LEETCODE/tree/master/0061-rotate-list) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Gehna-01/LEETCODE/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Gehna-01/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
