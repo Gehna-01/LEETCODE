@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Gehna-01/LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/Gehna-01/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gehna-01/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/Gehna-01/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Gehna-01/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Gehna-01/LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/Gehna-01/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gehna-01/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Gehna-01/LEETCODE/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Gehna-01/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/Gehna-01/LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/Gehna-01/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Gehna-01/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Gehna-01/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Gehna-01/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Gehna-01/LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/Gehna-01/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gehna-01/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
