@@ -16,7 +16,7 @@ class Solution {
                 else if (sum > target) {
                     right--;
                 } else {
-                    return target;
+                    return ans;
                 }
             }
         }
