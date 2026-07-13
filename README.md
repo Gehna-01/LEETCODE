@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gehna-01/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Gehna-01/LEETCODE/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Gehna-01/LEETCODE/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0680-valid-palindrome-ii) |
@@ -229,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0867-transpose-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gehna-01/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
