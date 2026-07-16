@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gehna-01/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gehna-01/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gehna-01/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Gehna-01/LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gehna-01/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0867-transpose-matrix) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Gehna-01/LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gehna-01/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Gehna-01/LEETCODE/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gehna-01/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gehna-01/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Gehna-01/LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
