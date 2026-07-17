@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Gehna-01/LEETCODE/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gehna-01/LEETCODE/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Gehna-01/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Gehna-01/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0054-spiral-matrix) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Gehna-01/LEETCODE/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gehna-01/LEETCODE/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Gehna-01/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Gehna-01/LEETCODE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Gehna-01/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gehna-01/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Gehna-01/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gehna-01/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Gehna-01/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gehna-01/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gehna-01/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Gehna-01/LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gehna-01/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gehna-01/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
