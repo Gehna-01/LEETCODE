@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gehna-01/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gehna-01/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Gehna-01/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gehna-01/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Gehna-01/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gehna-01/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gehna-01/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Gehna-01/LEETCODE/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Gehna-01/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Gehna-01/LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gehna-01/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Gehna-01/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gehna-01/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Gehna-01/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Gehna-01/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gehna-01/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Gehna-01/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gehna-01/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gehna-01/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Gehna-01/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gehna-01/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gehna-01/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gehna-01/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gehna-01/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Gehna-01/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Gehna-01/LEETCODE/tree/master/3620-network-recovery-pathways) |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Gehna-01/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0923-3sum-with-multiplicity](https://github.com/Gehna-01/LEETCODE/tree/master/0923-3sum-with-multiplicity) |
 | [1331-rank-transform-of-an-array](https://github.com/Gehna-01/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gehna-01/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Gehna-01/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -291,9 +296,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/Gehna-01/LEETCODE/tree/master/0923-3sum-with-multiplicity) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gehna-01/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gehna-01/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Gehna-01/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gehna-01/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gehna-01/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -310,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Gehna-01/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
