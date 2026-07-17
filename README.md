@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Gehna-01/LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Gehna-01/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0923-3sum-with-multiplicity](https://github.com/Gehna-01/LEETCODE/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/Gehna-01/LEETCODE/tree/master/0948-bag-of-tokens) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Gehna-01/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Gehna-01/LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Gehna-01/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0923-3sum-with-multiplicity](https://github.com/Gehna-01/LEETCODE/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/Gehna-01/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Gehna-01/LEETCODE/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Gehna-01/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/Gehna-01/LEETCODE/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Gehna-01/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0923-3sum-with-multiplicity](https://github.com/Gehna-01/LEETCODE/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/Gehna-01/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
