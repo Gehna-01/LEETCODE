@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Gehna-01/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gehna-01/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/Gehna-01/LEETCODE/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gehna-01/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gehna-01/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gehna-01/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/Gehna-01/LEETCODE/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/Gehna-01/LEETCODE/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
