@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Gehna-01/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Gehna-01/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/Gehna-01/LEETCODE/tree/master/0611-valid-triangle-number) |
+| [0622-design-circular-queue](https://github.com/Gehna-01/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Gehna-01/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0766-toeplitz-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0867-transpose-matrix) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Gehna-01/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gehna-01/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/Gehna-01/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Gehna-01/LEETCODE/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gehna-01/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1670-design-front-middle-back-queue](https://github.com/Gehna-01/LEETCODE/tree/master/1670-design-front-middle-back-queue) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gehna-01/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gehna-01/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Gehna-01/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Gehna-01/LEETCODE/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/Gehna-01/LEETCODE/tree/master/1670-design-front-middle-back-queue) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gehna-01/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gehna-01/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Gehna-01/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Gehna-01/LEETCODE/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/Gehna-01/LEETCODE/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/Gehna-01/LEETCODE/tree/master/1670-design-front-middle-back-queue) |
