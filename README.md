@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gehna-01/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gehna-01/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gehna-01/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gehna-01/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gehna-01/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gehna-01/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Gehna-01/LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Gehna-01/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0923-3sum-with-multiplicity](https://github.com/Gehna-01/LEETCODE/tree/master/0923-3sum-with-multiplicity) |
 | [1331-rank-transform-of-an-array](https://github.com/Gehna-01/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gehna-01/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gehna-01/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/Gehna-01/LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gehna-01/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Gehna-01/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gehna-01/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gehna-01/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gehna-01/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/Gehna-01/LEETCODE/tree/master/0923-3sum-with-multiplicity) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gehna-01/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gehna-01/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/Gehna-01/LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gehna-01/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
