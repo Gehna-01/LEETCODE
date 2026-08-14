@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/Gehna-01/LEETCODE/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/Gehna-01/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/Gehna-01/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gehna-01/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/Gehna-01/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/Gehna-01/LEETCODE/tree/master/1140-stone-game-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Gehna-01/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0923-3sum-with-multiplicity](https://github.com/Gehna-01/LEETCODE/tree/master/0923-3sum-with-multiplicity) |
+| [0997-find-the-town-judge](https://github.com/Gehna-01/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/Gehna-01/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gehna-01/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gehna-01/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Gehna-01/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Gehna-01/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Gehna-01/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Gehna-01/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
