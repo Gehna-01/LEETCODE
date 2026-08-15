@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Gehna-01/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Gehna-01/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Gehna-01/LEETCODE/tree/master/3310-remove-methods-from-project) |
@@ -549,10 +550,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
