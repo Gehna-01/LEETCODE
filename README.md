@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gehna-01/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gehna-01/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gehna-01/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Gehna-01/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Gehna-01/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Gehna-01/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2404-most-frequent-even-element](https://github.com/Gehna-01/LEETCODE/tree/master/2404-most-frequent-even-element) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Gehna-01/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Gehna-01/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gehna-01/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Gehna-01/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gehna-01/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Gehna-01/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gehna-01/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Gehna-01/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Gehna-01/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Gehna-01/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Gehna-01/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gehna-01/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gehna-01/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gehna-01/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/Gehna-01/LEETCODE/tree/master/0923-3sum-with-multiplicity) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gehna-01/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gehna-01/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2029-stone-game-ix](https://github.com/Gehna-01/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2404-most-frequent-even-element](https://github.com/Gehna-01/LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gehna-01/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Gehna-01/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -518,18 +522,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Gehna-01/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gehna-01/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Gehna-01/LEETCODE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Gehna-01/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Gehna-01/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gehna-01/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Gehna-01/LEETCODE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Gehna-01/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Gehna-01/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Gehna-01/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Gehna-01/LEETCODE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Gehna-01/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -538,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Gehna-01/LEETCODE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Gehna-01/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
