@@ -1,24 +1,24 @@
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {
 
-        int totalSum = 0;
+        int totalSum = nums[0];
 
-        int currMax = 0;
-        int maxSum = Integer.MIN_VALUE;
+        int currMax = nums[0];
+        int maxSum = nums[0];
 
-        int currMin = 0;
-        int minSum = Integer.MAX_VALUE;
+        int currMin = nums[0];
+        int minSum = nums[0];
 
-        for (int num : nums) {
+        for (int i=1;i<nums.length;i++) {
 
-            totalSum += num;
+            totalSum += nums[i];
 
             // Maximum Subarray (Kadane)
-            currMax = Math.max(num, currMax + num);
+            currMax = Math.max(nums[i], currMax + nums[i]);
             maxSum = Math.max(maxSum, currMax);
 
             // Minimum Subarray (Kadane)
-            currMin = Math.min(num, currMin + num);
+            currMin = Math.min(nums[i], currMin + nums[i]);
             minSum = Math.min(minSum, currMin);
         }
 
