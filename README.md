@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/Gehna-01/LEETCODE/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/Gehna-01/LEETCODE/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [0978-longest-turbulent-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [0997-find-the-town-judge](https://github.com/Gehna-01/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gehna-01/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/Gehna-01/LEETCODE/tree/master/1089-duplicate-zeros) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Gehna-01/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Gehna-01/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0978-longest-turbulent-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gehna-01/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gehna-01/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gehna-01/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Gehna-01/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Gehna-01/LEETCODE/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [0978-longest-turbulent-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [1140-stone-game-ii](https://github.com/Gehna-01/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Gehna-01/LEETCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Gehna-01/LEETCODE/tree/master/1191-k-concatenation-maximum-sum) |
