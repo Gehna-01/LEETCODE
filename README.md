@@ -582,15 +582,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Gehna-01/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Gehna-01/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Gehna-01/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
