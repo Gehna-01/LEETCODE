@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Gehna-01/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gehna-01/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Gehna-01/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/Gehna-01/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/Gehna-01/LEETCODE/tree/master/1563-stone-game-v) |
 | [1670-design-front-middle-back-queue](https://github.com/Gehna-01/LEETCODE/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gehna-01/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gehna-01/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Gehna-01/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Gehna-01/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1512-number-of-good-pairs](https://github.com/Gehna-01/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/Gehna-01/LEETCODE/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Gehna-01/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Gehna-01/LEETCODE/tree/master/1927-sum-game) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Gehna-01/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/Gehna-01/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Gehna-01/LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [1512-number-of-good-pairs](https://github.com/Gehna-01/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gehna-01/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gehna-01/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/Gehna-01/LEETCODE/tree/master/2404-most-frequent-even-element) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/Gehna-01/LEETCODE/tree/master/0923-3sum-with-multiplicity) |
+| [1512-number-of-good-pairs](https://github.com/Gehna-01/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Gehna-01/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gehna-01/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2029-stone-game-ix](https://github.com/Gehna-01/LEETCODE/tree/master/2029-stone-game-ix) |
