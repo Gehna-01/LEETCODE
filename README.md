@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Gehna-01/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gehna-01/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Gehna-01/LEETCODE/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gehna-01/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Gehna-01/LEETCODE/tree/master/0189-rotate-array) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Gehna-01/LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Gehna-01/LEETCODE/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/Gehna-01/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Gehna-01/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
