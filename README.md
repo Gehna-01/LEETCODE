@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/Gehna-01/LEETCODE/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gehna-01/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1670-design-front-middle-back-queue](https://github.com/Gehna-01/LEETCODE/tree/master/1670-design-front-middle-back-queue) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Gehna-01/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
