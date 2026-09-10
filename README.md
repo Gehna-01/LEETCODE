@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gehna-01/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Gehna-01/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Gehna-01/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -652,12 +653,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Gehna-01/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gehna-01/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Gehna-01/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Gehna-01/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Gehna-01/LEETCODE/tree/master/2331-evaluate-boolean-binary-tree) |
 ## DP on Trees
 |  |
