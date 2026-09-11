@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Gehna-01/LEETCODE/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1872-stone-game-viii](https://github.com/Gehna-01/LEETCODE/tree/master/1872-stone-game-viii) |
+| [1920-build-array-from-permutation](https://github.com/Gehna-01/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Gehna-01/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gehna-01/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gehna-01/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Gehna-01/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gehna-01/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1920-build-array-from-permutation](https://github.com/Gehna-01/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Gehna-01/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Gehna-01/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Gehna-01/LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
