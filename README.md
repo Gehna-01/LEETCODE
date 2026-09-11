@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-design-front-middle-back-queue](https://github.com/Gehna-01/LEETCODE/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gehna-01/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Gehna-01/LEETCODE/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1872-stone-game-viii](https://github.com/Gehna-01/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Gehna-01/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gehna-01/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
