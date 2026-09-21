@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Gehna-01/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Gehna-01/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/Gehna-01/LEETCODE/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Gehna-01/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Gehna-01/LEETCODE/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Gehna-01/LEETCODE/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gehna-01/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Gehna-01/LEETCODE/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Gehna-01/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Gehna-01/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Gehna-01/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Gehna-01/LEETCODE/tree/master/0523-continuous-subarray-sum) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Gehna-01/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Gehna-01/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Gehna-01/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gehna-01/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
