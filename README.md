@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Gehna-01/LEETCODE/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Gehna-01/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Gehna-01/LEETCODE/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Gehna-01/LEETCODE/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Gehna-01/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Gehna-01/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Gehna-01/LEETCODE/tree/master/0523-continuous-subarray-sum) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gehna-01/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Gehna-01/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Gehna-01/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Gehna-01/LEETCODE/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/Gehna-01/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gehna-01/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gehna-01/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
