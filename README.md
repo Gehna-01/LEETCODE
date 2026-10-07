@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Gehna-01/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gehna-01/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Gehna-01/LEETCODE/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Gehna-01/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Gehna-01/LEETCODE/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Gehna-01/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Gehna-01/LEETCODE/tree/master/0443-string-compression) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Gehna-01/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Gehna-01/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Gehna-01/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Gehna-01/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Gehna-01/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Gehna-01/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Gehna-01/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Gehna-01/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
