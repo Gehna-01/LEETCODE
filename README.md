@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Gehna-01/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Gehna-01/LEETCODE/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1872-stone-game-viii](https://github.com/Gehna-01/LEETCODE/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Gehna-01/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [1920-build-array-from-permutation](https://github.com/Gehna-01/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Gehna-01/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gehna-01/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/Gehna-01/LEETCODE/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gehna-01/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Gehna-01/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gehna-01/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Gehna-01/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Gehna-01/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
